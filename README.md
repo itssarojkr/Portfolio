@@ -40,7 +40,7 @@ If you don't want to install any of this, you can launch the repository in binde
    It is a binary supervised classification problem with numerical, categorical as well as as text data.
    Best score: 0.789  
    Current Rank: 3580  
-   Python Notebook: [click to follow](https://github.com/Saroj-kr/Portfolio/blob/master/Titanic_EDAandPredictionModel.ipynb)
+   Python Notebook: [click to follow](https://www.kaggle.com/sarojkr/titanic-dataset-eda-and-prediction-models)
 
 Below is my resume :  
 ![Saroj Kumar Resume](https://sd5tua.by.files.1drv.com/y4moHDnc-cu5I7p--RdcGfNF9Wk7947jTfWRdLP0E_FiJhnjQVPdfkRzajsV-7FIUqRi6xSM3a_1DXcOkOZ4IFcTySyV2OL1IHRt4ye8c1tzeux3cN7p0oKJysv04gFfDoaqi4Jz2vso9TgVplQ0bNAiY5bCAYHunKA4uHdptpaTs-vIfLOEvhmlnpJD7mJ3gX6zUtsWHf1XqzHh22HZHuQ3Q?width=691&height=903&cropmode=none "Saroj Kumar Resume")
