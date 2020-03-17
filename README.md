@@ -11,7 +11,8 @@ Most of the Notebooks use the basic libraries
 * seaborn
 * sklearn
 
-If you don't want to install any of this, you can launch the repository in binder. Click on the button above to open binder link.  
+If you don't want to install any of this, you can launch the repository in binder. Click on the button below to open binder link.   
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Saroj-kr/Portfolio/master)
 >Note : It may take a few minutes to load.
 
 ## Competitions Participated 
