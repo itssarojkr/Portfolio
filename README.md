@@ -43,6 +43,6 @@ If you don't want to install any of this, you may launch the repository using [b
    **Python Notebook**: [click to follow](https://www.kaggle.com/sarojkr/titanic-dataset-eda-and-prediction-models)
 
 Below is my resume :  
-![Saroj Kumar Resume](https://sd5tua.by.files.1drv.com/y4moHDnc-cu5I7p--RdcGfNF9Wk7947jTfWRdLP0E_FiJhnjQVPdfkRzajsV-7FIUqRi6xSM3a_1DXcOkOZ4IFcTySyV2OL1IHRt4ye8c1tzeux3cN7p0oKJysv04gFfDoaqi4Jz2vso9TgVplQ0bNAiY5bCAYHunKA4uHdptpaTs-vIfLOEvhmlnpJD7mJ3gX6zUtsWHf1XqzHh22HZHuQ3Q?width=691&height=903&cropmode=none "Saroj Kumar Resume")
+![Saroj Kumar Resume](https://st6cwg.by.files.1drv.com/y4mOAo_U1ZVMH8BlizCgHn7up_iGmb2j-TZ7hrq2LOQt1lEj7MNYa8d0eZlQ8-smW2KQFj8qJIDrjSCP-5kVY4pXDm3jX6qt581tT979YbkRGKHSvOgsZka_BhNyQW8k9ur9kW0VrnXyKc0iOFJcSVg_JKsYxzFJo3rtekSWQvY653u7dneA83acAUuPD1hd2VdnVGmglHT7vA0-8KpI1QYPQ?width=1654&height=2339&cropmode=none "Saroj Kumar Resume")
 
-[Click to download pdf](https://1drv.ms/b/s!AiqsARXxZ2F6iy2ViKAKjQn8oIiq?e=9ZuJOQ)
+[Click to download pdf](https://1drv.ms/b/s!AiqsARXxZ2F6iy2ViKAKjQn8oIiq?e=y5TDiu)
