@@ -1,10 +1,17 @@
 # My Portfolio
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Saroj-kr/Portfolio/master)   
 
-Below I have listed few of the competitions i have participated in along with the summary and score.
-For more detail on the analysis and prediction models that i used, you can view the Python notebook links for the respective Competition.
+Thank you for visiting my profile.
 
-Most of the Notebooks use the basic libraries
+Below I have listed few of the competitions i have participated in along with the summary and score.
+For more detail on the analysis and prediction models that i used, you can view the Python notebook links for the respective Competition  
+>Note : I've not uploaded notebooks for DrivenData because of the code sharing restriction.
+
+Alternatively you can visit my profile for the updated scores, by using the below links
+* [Kaggle](https://www.kaggle.com/sarojkr)
+* [DrivenData](https://www.drivendata.org/users/Saroj)
+
+Most of the Notebooks use the basic python libraries mentioned below:
 * matplotlib
 * numpy
 * pandas
@@ -25,14 +32,21 @@ If you don't want to install any of this, you may launch the repository using [b
   The training data set comprised of both numerical and categorical data. I've used sklearn libraries for creating the model and GridSearchCV for hypertuning the parameters  
   **Best score**: 0.8074  
   **Current Rank**: 1332  
-  **Python Notebook**: [click to follow](https://github.com/Saroj-kr/Portfolio/blob/master/PumpItUp_EDAandPredictionModel.ipynb)
+  **Python Notebook**: Cannot share the code currently as the competition is still in progress  
   1. **BoxPlot for Education**:  
   **Summary**:  
   The goal for this Competition was to predict how schools are spending money and tailor their strategy recommendations to improve outcomes for students, teachers, and administrators.  
   This was a multi-class-multi-label supervised classification problem, with 10 target labels and more than a 100 sub target labels.   
   **Best score**: 2.8637  
   **Current Rank**: 127  
-  **Python Notebook**: [click to follow](https://github.com/Saroj-kr/Portfolio/blob/master/BoxPlots_EDAandPredictionModel.ipynb)
+  **Python Notebook**: Cannot share the code currently as the competition is still in progress  
+  1. **DengAI: Predicting Disease Spread**:
+  **Summary**:  
+  The goal for this Competition was to predict the spread of Dengue disease on the basis of environmental and climatic situations.  
+  This is a supervised regression problem.  
+  **Best score**: 26.9736  
+  **Current Rank**: 2159  
+  **Python Notebook**: Cannot share the code currently as the competition is still in progress  
 * **Kaggle**
   1. **Titanic: Machine Learning from Disaster**:  
    **Summary**:  
