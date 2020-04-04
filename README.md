@@ -57,6 +57,6 @@ If you don't want to install any of this, you may launch the repository using [b
 Below is my resume :  
 ![Saroj Kumar Resume](https://st6cwg.by.files.1drv.com/y4mOAo_U1ZVMH8BlizCgHn7up_iGmb2j-TZ7hrq2LOQt1lEj7MNYa8d0eZlQ8-smW2KQFj8qJIDrjSCP-5kVY4pXDm3jX6qt581tT979YbkRGKHSvOgsZka_BhNyQW8k9ur9kW0VrnXyKc0iOFJcSVg_JKsYxzFJo3rtekSWQvY653u7dneA83acAUuPD1hd2VdnVGmglHT7vA0-8KpI1QYPQ?width=1654&height=2339&cropmode=none "Saroj Kumar Resume")
 
-[Click to download pdf](https://1drv.ms/b/s!AiqsARXxZ2F6iy2ViKAKjQn8oIiq?e=y5TDiu)
->** Python notebooks are not uploaded notebooks for DrivenData because of the code sharing restriction.  
->*** Binder may take a few minutes to load
+[Click to download pdf](https://1drv.ms/b/s!AiqsARXxZ2F6iy2ViKAKjQn8oIiq?e=y5TDiu)  
+** Python notebooks for DrivenData are not uploaded because of the code sharing restriction.  
+*** Binder may take a few minutes to load
