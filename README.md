@@ -6,7 +6,7 @@ Thank you for visiting my profile.
 Below I have listed few of the competitions i have participated in along with the summary and score.
 For more detail on the analysis and prediction models that i used, you can view the Python notebook links for the respective Competition<sup>**</sup>.  
 
-Alternatively you can visit my profile for the updated scores, by using the below links
+Alternatively you can also visit my profile for the updated scores, by using the below links
 * [Kaggle](https://www.kaggle.com/sarojkr)
 * [DrivenData](https://www.drivendata.org/users/Saroj)
 
