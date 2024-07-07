@@ -44,13 +44,13 @@ I am working as Sr. Azure Integration Services Developer with extensive experien
 
 ## Work Samples (In Progress)
 
-### XSLT Transformation using FunctionApp [![Static Badge](https://img.shields.io/badge/GitHub-XSLTransform-blue)](https://github.com/Saroj-kr/FunctionApp-XSLTransform) ![Static Badge](https://img.shields.io/badge/.NET8-blue) ![Static Badge](https://img.shields.io/badge/Azure_Function-InProcess-blue) ![Static Badge](https://img.shields.io/badge/Azure_Function-Isolated-blue) ![Static Badge](https://img.shields.io/badge/C%23-blue)
+### XSLT Transformation using FunctionApp [![Static Badge](https://img.shields.io/badge/GitHub-XSLTransform-blue)](https://github.com/Saroj-kr/FunctionApp-XSLTransform) ![Static Badge](https://img.shields.io/badge/.NET8-green) ![Static Badge](https://img.shields.io/badge/Azure_Function-InProcess-blue) ![Static Badge](https://img.shields.io/badge/Azure_Function-Isolated-blue) ![Static Badge](https://img.shields.io/badge/C%23-grey)
 - **Description**:
 
 ### XSLT Transformation using Powershell ![Static Badge](https://img.shields.io/badge/PowerShell-blue)
 - **Description**:
 
-### JMS Connection using FunctionApp ![Static Badge](https://img.shields.io/badge/.NET8-blue) ![Static Badge](https://img.shields.io/badge/Azure_Function-InProcess-blue) ![Static Badge](https://img.shields.io/badge/C%23-blue)
+### JMS Connection using FunctionApp ![Static Badge](https://img.shields.io/badge/.NET8-green) ![Static Badge](https://img.shields.io/badge/Azure_Function-InProcess-blue) ![Static Badge](https://img.shields.io/badge/C%23-grey)
 - **Description**:
 
 ## Education
