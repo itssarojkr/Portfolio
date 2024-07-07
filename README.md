@@ -1,63 +1,71 @@
-# Saroj Kumar
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Saroj-kr/Portfolio/master)   
+# Hi, I'm Saroj Kumar
 
-Thank you for visiting my profile.
+![Profile Banner](path/to/your/banner/image)
 
-Below I have listed few of the competitions i have participated in along with the summary and score.
-For more detail on the analysis and prediction models that i used, you can view the Python notebook links for the respective Competition<sup>**</sup>.  
+## About Me
 
-Alternatively you can also visit my profile for the updated scores, by using the below links
-* [Kaggle](https://www.kaggle.com/sarojkr)
-* [DrivenData](https://www.drivendata.org/users/Saroj)
+I am working as Sr. Azure Integration Services Developer with extensive experience in designing, implementing, and managing cloud, Hybrid and on-premises integration solutions. I specialize in Microsoft Integration Platforms i.e., Azure Integration Services and BizTalk, Azure DevOps, GitHub & Terraform.
 
-Most of the Notebooks use the basic python libraries mentioned below:
-* matplotlib
-* numpy
-* pandas
-* seaborn
-* sklearn
+## Skills
 
-If you don't want to install any of this, you may launch the repository using [binder](https://mybinder.org/) link present at the top of page<sup>***</sup>.
+- **Integration Services**: Azure Logic Apps, Data Factory, API Management, Function App, Durable Function, Service Bus, Event Grid, Storage Account, Key Vault, ARM Template, Application Insights, Log Analytics
+- **BizTalk**: Schema, Map, Orchestration, Pipeline Component, BRE, ESB Itinerary, WCF Behavior, Orchestration Extender, Messaging Extender
+- **Programming Languages**: C#, PowerShell, SQL, U-SQL, Python (Basics), JavaScript
+- **Databases**: SQL Server, Azure SQL Database, Azure Cosmos DB
+- **DevOps**: GitHub Actions, Azure DevOps pipelines, Terraform (IAC)
+- **Tools**: Visual Studio, Postman, VS Code, Git Bash
+- **APIs**: RESTful APIs, OData APIs
 
-## Competitions Participated 
-###### The summary for the competition is shamelessly copied from the website's summary.
+## Experience
 
-* **Driven Data** :
-  1. **Pump it Up: Data Mining the Water Table**:  
-  **Summary**:  
-  The goal in this Competition was to predict operating condition of a waterpoint for each record in the dataset.   
-  It was a supervised classification problem with 3 target labels.   
-  The training data set comprised of both numerical and categorical data. I've used sklearn libraries for creating the model and GridSearchCV for hypertuning the parameters  
-  **Best score**: 0.8074  
-  **Current Rank**: 1332  
-  **Python Notebook**: Cannot share the code currently as the competition is still in progress  
-  1. **BoxPlot for Education**:  
-  **Summary**:  
-  The goal for this Competition was to predict how schools are spending money and tailor their strategy recommendations to improve outcomes for students, teachers, and administrators.  
-  This was a multi-class-multi-label supervised classification problem, with 10 target labels and more than a 100 sub target labels.   
-  **Best score**: 2.8637  
-  **Current Rank**: 127  
-  **Python Notebook**: Cannot share the code currently as the competition is still in progress  
-  1. **DengAI: Predicting Disease Spread**:
-  **Summary**:  
-  The goal for this Competition was to predict the spread of Dengue disease on the basis of environmental and climatic situations.  
-  This is a supervised regression problem.  
-  **Best score**: 26.9736  
-  **Current Rank**: 2159  
-  **Python Notebook**: Cannot share the code currently as the competition is still in progress  
-* **Kaggle**
-  1. **Titanic: Machine Learning from Disaster**:  
-   **Summary**:  
-   The goal here was to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).   
-   It is a binary supervised classification problem with numerical, categorical as well as as text data.   
-   **Best score**: 0.789  
-   **Current Rank**: 3580  
-   **Python Notebook**: [click to follow](https://www.kaggle.com/sarojkr/titanic-dataset-eda-and-prediction-models)
+- **Sr. Azure Integration Services Developer at Shell (through Andor Tech India Pvt.Ltd.)**
+  *December 2022 to Present*
 
-Below is my resume :  
-![Saroj Kumar Resume](https://st6cwg.by.files.1drv.com/y4mOAo_U1ZVMH8BlizCgHn7up_iGmb2j-TZ7hrq2LOQt1lEj7MNYa8d0eZlQ8-smW2KQFj8qJIDrjSCP-5kVY4pXDm3jX6qt581tT979YbkRGKHSvOgsZka_BhNyQW8k9ur9kW0VrnXyKc0iOFJcSVg_JKsYxzFJo3rtekSWQvY653u7dneA83acAUuPD1hd2VdnVGmglHT7vA0-8KpI1QYPQ?width=1654&height=2339&cropmode=none "Saroj Kumar Resume")
+- **Senior Consultant at Ernst & Young LLP**
+  *September 2021 – December 2022*
 
-[Click to download the pdf version of resume](https://1drv.ms/b/s!AiqsARXxZ2F6iy2ViKAKjQn8oIiq?e=y5TDiu)  
+- **Technical Lead at Solcen Technologies Pvt Ltd**
+  *August 2018 –September 2021*
 
-** Python notebooks for DrivenData are not uploaded because of the code sharing restriction.  
-*** Binder may take a few minutes to load
+- **Senior BizTalk Developer at Wipro Technologies**
+  *February 2014 –August 2018*
+
+## Projects (In Progress)
+
+### [Project Title]
+- **Description**: Brief overview of the project.
+- **Technologies Used**: List of technologies and tools used.
+- **Link**: [Repository Link](URL)
+
+### [Project Title]
+- **Description**: Brief overview of the project.
+- **Technologies Used**: List of technologies and tools used.
+- **Link**: [Repository Link](URL)
+
+## Work Samples (In Progress)
+
+### XSLT Transformation using FunctionApp [![Static Badge](https://img.shields.io/badge/GitHub-XSLTransform-blue)](https://github.com/Saroj-kr/FunctionApp-XSLTransform) ![Static Badge](https://img.shields.io/badge/.NET8-blue) ![Static Badge](https://img.shields.io/badge/Azure_Function-InProcess-blue) ![Static Badge](https://img.shields.io/badge/Azure_Function-Isolated-blue) ![Static Badge](https://img.shields.io/badge/C%23-blue)
+- **Description**:
+
+### XSLT Transformation using Powershell ![Static Badge](https://img.shields.io/badge/PowerShell-blue)
+- **Description**:
+
+### JMS Connection using FunctionApp ![Static Badge](https://img.shields.io/badge/.NET8-blue) ![Static Badge](https://img.shields.io/badge/Azure_Function-InProcess-blue) ![Static Badge](https://img.shields.io/badge/C%23-blue)
+- **Description**:
+
+## Education
+
+- **Degree**:
+  - M.S in IT from VIT, Vellore
+  - B.S. in IT from Kolhan University, Ranchi
+- **Certifications**:
+  - Microsoft Certified: Azure Developer Associate (AZ 204),
+  - Microsoft Certified: Azure Data Fundamentals (DP 900),
+  - Microsoft Certified: Azure Fundamentals (AZ 900)
+
+## Contact
+
+[![Skype: sarojKumar](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white&link=https://join.skype.com/invite/wCj6QgAZhHEN)](https://join.skype.com/invite/wCj6QgAZhHEN)
+[![Linkedin: sarojkumar](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/saroj-kumar-1011)](https://www.linkedin.com/in/saroj-kumar-1011)
+[![GMail: sarojkumar](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:itssarojkr@gmail.com)](mailto:itssarojkr@gmail.com)
+[![Outlook: sarojkumar](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:itssaroj@hotmail.com)](mailto:itssaroj@hotmail.com)
