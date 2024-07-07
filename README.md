@@ -68,4 +68,4 @@ I am working as Sr. Azure Integration Services Developer with extensive experien
 [![Skype: sarojKumar](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white&link=https://join.skype.com/invite/wCj6QgAZhHEN)](https://join.skype.com/invite/wCj6QgAZhHEN)
 [![Linkedin: sarojkumar](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/saroj-kumar-1011)](https://www.linkedin.com/in/saroj-kumar-1011)
 [![GMail: sarojkumar](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:itssarojkr@gmail.com)](mailto:itssarojkr@gmail.com)
-[![Outlook: sarojkumar](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:itssaroj@hotmail.com)](mailto:itssaroj@hotmail.com)
+[![Outlook: sarojkumar](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:itssaroj@hotmail.com)](mailto:itssaroj@hotmail.com)
