@@ -42,7 +42,7 @@ I am working as Sr. Azure Integration Services Developer with extensive experien
   - **Description**: Blob triggered Azure Function to transform XML files. This Function transforms any file uploaded to Azure storage container, executes XSLT stylesheet and uploads the output to another folder within same container.
   - **Link**: [FunctionApp-XSLTransform](https://github.com/Saroj-kr/FunctionApp-XSLTransform)  
 
-![Static Badge](https://img.shields.io/badge/GitHub-XSLTransform-blue) ![Static Badge](https://img.shields.io/badge/.NET8-green) ![Static Badge](https://img.shields.io/badge/Azure_Function-InProcess-blue) ![Static Badge](https://img.shields.io/badge/Azure_Function-Isolated-blue) ![Static Badge](https://img.shields.io/badge/C%23-grey)
+![Static Badge](https://img.shields.io/badge/Azure_Function-InProcess-blue) ![Static Badge](https://img.shields.io/badge/Azure_Function-Isolated-blue) ![Static Badge](https://img.shields.io/badge/XSLTransformation-lightgreen) ![Static Badge](https://img.shields.io/badge/.NET8-green) ![Static Badge](https://img.shields.io/badge/C%23-red)
 
 ### XSLT Transformation using Powershell
 - **Description**: A Powershell script to transform XML documents using XSLT stylesheet.
@@ -50,10 +50,16 @@ I am working as Sr. Azure Integration Services Developer with extensive experien
 
 ![Static Badge](https://img.shields.io/badge/PowerShell-blue)
 
-### JMS Connection using FunctionApp
-- **Description**: 
+### AES256 Encryption/Decryption using Azure FunctionApp
+- **Description**: A Azure FunctionApp in C# to perform data Encryption using AES25 Algorithm and symmetric keys. This uses streams for high performance encryption, tested upto 250 MB of single file.
+- **Link**: [FunctionApp-AES256Encryption](https://github.com/itssarojkr/FunctionApp-AES256Encryption)
 
-![Static Badge](https://img.shields.io/badge/.NET8-green) ![Static Badge](https://img.shields.io/badge/Azure_Function-InProcess-blue) ![Static Badge](https://img.shields.io/badge/C%23-grey)
+![Static Badge](https://img.shields.io/badge/Azure_Function-InProcess-blue) ![Static Badge](https://img.shields.io/badge/.NET8-green) ![Static Badge](https://img.shields.io/badge/C%23-red) ![Static Badge](https://img.shields.io/badge/AES256Encryption-teal)
+
+### JMS Connection using FunctionApp
+- **Description**: C# based FunctionApp for connecting to JMS Queues using Apache.NMS.ActiveMQ library.
+
+![Static Badge](https://img.shields.io/badge/Azure_Function-InProcess-blue) ![Static Badge](https://img.shields.io/badge/.NET8-green) ![Static Badge](https://img.shields.io/badge/C%23-red)
 
 <!-- ## <img src="Images/gif/icons8-certification.gif" width="22" />&nbsp;&nbsp;Education
 
